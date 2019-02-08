@@ -1,0 +1,6 @@
+You wanna know why this program is so slow and inefficient?
+1)The formula used is the BBP formula, this formula has a part where 16^k has to be calculated.
+2)The BigDecimal Library is used, greatly hindering performance, I will eventually swap to something
+  like the apfloat library for java.
+
+Do you want to see this message again? (Answer true,false,yes,no,y,n):
