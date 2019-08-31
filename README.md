@@ -3,4 +3,4 @@ Sorry that the code is messy.
 This is my Multi-Threaded Pi aplication, It uses the BBP Formula to Calculate pi, If you have a more efficient formula that would work the same, please do inform me.Using the application is quite simple as you will be instructed on what to do. 
 If anything is not working please let me know.
 
-You are free to use this code and modify it as long as original credit is given, although, I don't know why you would want to use this in the first place.
+You are free to use this code and modify it as long as original credit is given, although, I don't know why you'd want to use this in the first place.
